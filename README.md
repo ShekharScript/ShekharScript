@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏋️‍♂️I’m currently working on LucidPrompt (a deterministic prompt linter that improves clarity and preserves user intent<br>🤝 I’m looking for help with Advanced Data Structures & Algorithms (DSA)<br>🌱 I’m currently learning Core Java, System Design<br>💬 Ask me about Full Stack Development (React, MongoDB, SQL) & Data Structures<br>⚡Hobbies: Motorcycling, tech tinkering.
+🏋️‍♂️I’m currently working on LucidPrompt (a deterministic prompt linter that improves clarity and preserves user intent<br>🌱Learning Core Java and System Design<br>🤝 I’m looking for help with Advanced Data Structures & Algorithms(DSA)<br>💬 Ask me about Full Stack Development (React, MongoDB, SQL) & Data Structures<br>⚡Hobbies: Motorcycling, tech tinkering.
 
 
 # 💻 Tech Stack:
